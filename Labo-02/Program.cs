@@ -53,7 +53,7 @@
             Console.WriteLine("");
             Console.WriteLine("de juiste waarde van een mxUShort +1, variable is niet verhoogd");
             Console.WriteLine(maxUShort + 1);
-            // dit klopt niet, want het is een overload van de short value
+            // dit klopt niet, want het is een overload van de short val
             // we ztten hier de waarde van maxUshort met 1 hoger, wat niet kan
             // op de achter grond worden alle bits door geduwd en we krijgen nu nul
             //
